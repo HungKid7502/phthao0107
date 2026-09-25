@@ -23,7 +23,7 @@ const messages = [
     { text: "Bánh Trung Thu có nhân gì cũng được, miễn là trong tim anh luôn có ‘nhân vật chính’ là Thảo 🌿", img: "./style/img/thao.jpg" }, 
     { text: "Trăng tròn rồi sẽ khuyết, nhưng tình cảm của anh này dành cho em thì không bao giờ phai 🌙", img: "https://i.pinimg.com/originals/8e/d5/3a/8ed53a260b997abc3dc6bef98a71192b.gif" }, 
     { text: "Đêm nay trăng tròn, tim anh cũng tròn — vì Thảo đã chiếm trọn cả hai 🧡", img: "https://i.pinimg.com/originals/fc/cb/07/fccb0736aba4e6892cf1dabe9f6866d6.gif" }, 
-    { text: "Nếu mỗi ngọn đèn lồng là một lời chúc, thì anh xin thắp cả ngàn đèn để chúc Thảo luôn hạnh phúc 🏮", img: "./style/img/Anh (7).jpg" }, 
+    { text: "Nếu mỗi ngọn đèn lồng là một lời chúc, thì anh xin thắp cả ngàn đèn để chúc Thảo luôn hạnh phúc 🏮", img: "./style/img/Anh (7).gif" }, 
     { text: "Đêm Trung Thu gió mát, trăng trong, nhưng không gì làm anh rung động bằng giọng nói của em 🍂 ", img: "./style/img/Anh (2).jpg" },
     { text: "Chị Hằng trong đêm trăng thì cũng đẹp đấy, nhưng lộng lẫy nhất là Thảo cơ ✨ ", img: "./style/img/Anh (6).gif" }
 ];
